@@ -3,10 +3,19 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+  font-family: Sans-Serif;
+  font-size: 75%;
+
+
 }
 
 .title {
   text-align: center;
+  font-weight: 900;
+  font-size: 175%;
+  font-family: Arial;
+  line-height: 300%;
+  margin-bottom: 25px;
 }
 
 img {
